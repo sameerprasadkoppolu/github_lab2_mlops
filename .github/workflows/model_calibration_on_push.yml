@@ -1,4 +1,4 @@
-name: Model Retraining on Push to Main
+name: Model Retraining on Push to Main #This workflow runs on every push
 
 on:
   push:
